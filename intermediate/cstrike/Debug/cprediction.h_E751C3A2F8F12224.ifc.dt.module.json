@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\cprediction.obj",
+            "outputs": [
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\cprediction.h_E751C3A2F8F12224.ifc.dt.module.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\cprediction.h_E751C3A2F8F12224.ifc.dt.d.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\cprediction.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\sdk\\interfaces\\cprediction.h",
+                    "source-path": "c:\\users\\mollyinduced\\documents\\visual studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\sdk\\interfaces\\cprediction.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

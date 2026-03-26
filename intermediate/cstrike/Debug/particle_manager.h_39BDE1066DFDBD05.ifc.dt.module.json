@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\particle_manager.obj",
+            "outputs": [
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\particle_manager.h_39BDE1066DFDBD05.ifc.dt.module.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\particle_manager.h_39BDE1066DFDBD05.ifc.dt.d.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\particle_manager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\sdk\\datatypes\\particle_manager.h",
+                    "source-path": "c:\\users\\mollyinduced\\documents\\visual studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\sdk\\datatypes\\particle_manager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

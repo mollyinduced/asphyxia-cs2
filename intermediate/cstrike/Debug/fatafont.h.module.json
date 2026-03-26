@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\fataFont.h.obj",
+            "outputs": [
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\vc143.pdb",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Debug\\fataFont.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "core\\fataFont.h",
+                    "source-path": "c:\\users\\mollyinduced\\documents\\visual studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\core\\fatafont.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

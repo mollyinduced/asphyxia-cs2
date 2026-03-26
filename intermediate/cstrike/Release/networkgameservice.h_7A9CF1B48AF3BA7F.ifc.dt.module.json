@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\networkgameservice.obj",
+            "outputs": [
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\networkgameservice.h_7A9CF1B48AF3BA7F.ifc.dt.module.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\networkgameservice.h_7A9CF1B48AF3BA7F.ifc.dt.d.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\networkgameservice.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\sdk\\interfaces\\networkgameservice.h",
+                    "source-path": "c:\\users\\mollyinduced\\documents\\visual studio 2022\\cs2\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\sdk\\interfaces\\networkgameservice.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

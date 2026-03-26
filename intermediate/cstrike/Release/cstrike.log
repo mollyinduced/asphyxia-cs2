@@ -1,0 +1,601 @@
+﻿  Scanning sources for module dependencies...
+  hooks.cpp
+  menu.cpp
+  autowall.cpp
+  lagcomp.cpp
+  ragebot.cpp
+  overlay.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  (compiling source file 'core/menu.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(113,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(114,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(128,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(129,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(149,5): warning C4141: 'inline': used more than once
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(158,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(159,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(174,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(175,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(187,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'features/rage/autowall.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(113,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(114,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(128,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(129,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(149,5): warning C4141: 'inline': used more than once
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(158,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(159,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(174,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(175,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(187,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'features/rage/ragebot.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'features/rage/lagcomp.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(113,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(114,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(128,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(129,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(149,5): warning C4141: 'inline': used more than once
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(158,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(159,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(174,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(175,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(187,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'core/hooks.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'features/visuals/overlay.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(113,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(114,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(128,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(129,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(149,5): warning C4141: 'inline': used more than once
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(158,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(159,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(174,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(175,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(187,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(113,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(114,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(128,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(129,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(149,5): warning C4141: 'inline': used more than once
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(158,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(159,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(174,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(175,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(187,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'features/visuals/overlay.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\crc.h(9,38): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\interfaces\imaterialsystem.h(23,7): warning C4099: 'material_paramater': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'core/hooks.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\datatypes\vector.h(386,8):
+      see declaration of 'material_paramater'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(113,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(114,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(128,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(129,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(149,5): warning C4141: 'inline': used more than once
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(158,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(159,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(174,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(175,9): warning C4068: unknown pragma 'gma'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\variables.h(187,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'core/menu.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\entity.h(335,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(96,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,27): error C2065: 'LagRecord_t': undeclared identifier
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,40): error C2065: 'pRecord': undeclared identifier
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,49): error C2275: 'CModelState': expected an expression instead of a type
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,61): error C2146: syntax error: missing ')' before identifier 'pModel'
+  (compiling source file 'features/rage/ragebot.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(96,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,27): error C2065: 'LagRecord_t': undeclared identifier
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,40): error C2065: 'pRecord': undeclared identifier
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,49): error C2275: 'CModelState': expected an expression instead of a type
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,61): error C2146: syntax error: missing ')' before identifier 'pModel'
+  (compiling source file 'features/rage/autowall.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(96,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,27): error C2065: 'LagRecord_t': undeclared identifier
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,40): error C2065: 'pRecord': undeclared identifier
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,49): error C2275: 'CModelState': expected an expression instead of a type
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,61): error C2146: syntax error: missing ')' before identifier 'pModel'
+  (compiling source file 'features/rage/lagcomp.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\interfaces\imaterialsystem.h(23,7): warning C4099: 'material_paramater': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'features/rage/lagcomp.cpp')
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\sdk\datatypes\vector.h(386,8):
+      see declaration of 'material_paramater'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\autowall.cpp(151,39): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\autowall.cpp(163,41): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\autowall.cpp(168,40): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\autowall.cpp(227,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\autowall.cpp(235,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(198,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(359,68): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(359,42): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(389,7): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(389,20): error C2065: 'pRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(389,30): error C2653: 'Lagcomp': is not a class or namespace name
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(389,39): error C2065: 'm_arrRecords': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(389,114): error C2065: 'pRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\visuals\overlay.cpp(390,53): error C2065: 'pRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(152,21): error C2374: 'RAGEBOT::GetShootPoint': redefinition; multiple initialization
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,13):
+      see declaration of 'RAGEBOT::GetShootPoint'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(152,21): error C2086: 'ShootPoint RAGEBOT::GetShootPoint': redefinition
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,13):
+      see declaration of 'RAGEBOT::GetShootPoint'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(152,35): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(152,48): error C2065: 'pRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(152,57): error C2275: 'CModelState': expected an expression instead of a type
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(152,69): error C2146: syntax error: missing ')' before identifier 'pModel'
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(153,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(153,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(228,7): error C2653: 'Lagcomp': is not a class or namespace name
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(228,16): error C2065: 'm_arrRecords': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(234,3): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(234,16): error C2065: 'pFirstRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(234,31): error C2653: 'Lagcomp': is not a class or namespace name
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(234,40): error C2065: 'm_arrRecords': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(235,8): error C2065: 'pFirstRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(238,3): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(238,16): error C2065: 'pLastRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(238,30): error C2653: 'Lagcomp': is not a class or namespace name
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(238,39): error C2065: 'm_arrRecords': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(239,8): error C2065: 'pLastRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,19): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,8): error C2923: 'std::unique_ptr': 'LagRecord_t' is not a valid template type argument for parameter '_Ty'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,19):
+      see declaration of 'LagRecord_t'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,8): error C2976: 'std::unique_ptr': too few template arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3347,7):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,65): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,53): error C2672: 'std::make_unique': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3640,6):
+      could be 'void std::make_unique(_Types ...)'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,65):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3634,57):
+      or       'std::unique_ptr<_Ty,std::default_delete<_Ty>> std::make_unique(const size_t)'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,65):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3629,57):
+      or       'std::unique_ptr<_Ty,std::default_delete<_Ty>> std::make_unique(_Types ...)'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,65):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,46): error C2641: cannot deduce template arguments for 'std::unique_ptr'
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,46): error C2783: 'std::unique_ptr<_Ty,_Dx> std::unique_ptr(void) noexcept': could not deduce template argument for '_Ty'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3357,5):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(244,46): error C2780: 'std::unique_ptr<_Ty,_Dx> std::unique_ptr(std::unique_ptr<_Ty,_Dx>)': expects 1 arguments - 0 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3347,7):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(246,3): error C2065: 'pFirstRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(247,42): error C2065: 'pFirstRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(249,3): error C2065: 'pLastRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(250,41): error C2065: 'pLastRecord': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(252,3): error C2678: binary '->': no operator found which takes a left-hand operand of type 'std::unique_ptr' (or there is no acceptable conversion)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3452,37):
+      could be '_Get_deleter_pointer_type<_Ty,remove_reference<_Ty2>::type,void>::type std::unique_ptr<_Ty,_Dx>::operator ->(void) noexcept const'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(252,3):
+          '_Get_deleter_pointer_type<_Ty,remove_reference<_Ty2>::type,void>::type std::unique_ptr<_Ty,_Dx>::operator ->(void) noexcept const': cannot convert 'this' pointer from 'std::unique_ptr' to 'const std::unique_ptr<_Ty,_Dx> &'
+              C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(252,3):
+              Reason: cannot convert from 'std::unique_ptr' to 'const std::unique_ptr<_Ty,_Dx>'
+              C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(252,3):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(252,3):
+      while trying to match the argument list '(std::unique_ptr)'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(252,18): error C2039: 'Restore': is not a member of 'std::unique_ptr'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3347,7):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(264,41): warning C4244: '=': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(268,14): error C2039: 'pRecord': is not a member of 'RageEntity'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(101,8):
+      see declaration of 'RageEntity'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(268,39): error C2039: 'pRecord': is not a member of 'ShootPoint'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(118,8):
+      see declaration of 'ShootPoint'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,18): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,7): error C2923: 'std::unique_ptr': 'LagRecord_t' is not a valid template type argument for parameter '_Ty'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,18):
+      see declaration of 'LagRecord_t'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,7): error C2976: 'std::unique_ptr': too few template arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3347,7):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,64): error C2065: 'LagRecord_t': undeclared identifier
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,52): error C2672: 'std::make_unique': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3640,6):
+      could be 'void std::make_unique(_Types ...)'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,64):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3634,57):
+      or       'std::unique_ptr<_Ty,std::default_delete<_Ty>> std::make_unique(const size_t)'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,64):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3629,57):
+      or       'std::unique_ptr<_Ty,std::default_delete<_Ty>> std::make_unique(_Types ...)'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,64):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,45): error C2641: cannot deduce template arguments for 'std::unique_ptr'
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,45): error C2783: 'std::unique_ptr<_Ty,_Dx> std::unique_ptr(void) noexcept': could not deduce template argument for '_Ty'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3357,5):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(333,45): error C2780: 'std::unique_ptr<_Ty,_Dx> std::unique_ptr(std::unique_ptr<_Ty,_Dx>)': expects 1 arguments - 0 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3347,7):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(334,13): error C2039: 'pRecord': is not a member of 'RageEntity'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(101,8):
+      see declaration of 'RageEntity'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(336,2): error C2678: binary '->': no operator found which takes a left-hand operand of type 'std::unique_ptr' (or there is no acceptable conversion)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3452,37):
+      could be '_Get_deleter_pointer_type<_Ty,remove_reference<_Ty2>::type,void>::type std::unique_ptr<_Ty,_Dx>::operator ->(void) noexcept const'
+          C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(336,2):
+          '_Get_deleter_pointer_type<_Ty,remove_reference<_Ty2>::type,void>::type std::unique_ptr<_Ty,_Dx>::operator ->(void) noexcept const': cannot convert 'this' pointer from 'std::unique_ptr' to 'const std::unique_ptr<_Ty,_Dx> &'
+              C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(336,2):
+              Reason: cannot convert from 'std::unique_ptr' to 'const std::unique_ptr<_Ty,_Dx>'
+              C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(336,2):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(336,2):
+      while trying to match the argument list '(std::unique_ptr)'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(336,17): error C2039: 'Restore': is not a member of 'std::unique_ptr'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3347,7):
+      see declaration of 'std::unique_ptr'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(357,18): error C2039: 'pRecord': is not a member of 'RageEntity'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(101,8):
+      see declaration of 'RageEntity'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.cpp(360,20): error C2039: 'pRecord': is not a member of 'RageEntity'
+      C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(101,8):
+      see declaration of 'RageEntity'
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(96,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,27): error C2065: 'LagRecord_t': undeclared identifier
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,40): error C2065: 'pRecord': undeclared identifier
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,49): error C2275: 'CModelState': expected an expression instead of a type
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,61): error C2146: syntax error: missing ')' before identifier 'pModel'
+  (compiling source file 'core/menu.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(96,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(106,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(121,22): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,27): error C2065: 'LagRecord_t': undeclared identifier
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,40): error C2065: 'pRecord': undeclared identifier
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,49): error C2275: 'CModelState': expected an expression instead of a type
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\features\rage\ragebot.h(136,61): error C2146: syntax error: missing ')' before identifier 'pModel'
+  (compiling source file 'core/hooks.cpp')
+  
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(74,6): warning C4551: function call missing argument list
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(78,6): warning C4551: function call missing argument list
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(82,6): warning C4551: function call missing argument list
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(86,6): warning C4551: function call missing argument list
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\hooks.cpp(302,26): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\hooks.cpp(428,3): error C2653: 'Lagcomp': is not a class or namespace name
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\hooks.cpp(428,12): error C3861: 'Run': identifier not found
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(567,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(567,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mollyinduced\Documents\Visual Studio 2022\cs2\cs2_internal_[unknowncheats.me]_\cs2_internal\cstrike\core\menu.cpp(697,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

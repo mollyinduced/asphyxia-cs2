@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cheats\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\fataFont.obj",
+            "outputs": [
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cheats\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\fataFont.h_98E332B12F82292C.ifc.dt.module.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cheats\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\fataFont.h_98E332B12F82292C.ifc.dt.d.json",
+                "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cheats\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\intermediate\\cstrike\\Release\\fataFont.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\mollyinduced\\Documents\\Visual Studio 2022\\cs2\\cheats\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\core\\fataFont.h",
+                    "source-path": "c:\\users\\mollyinduced\\documents\\visual studio 2022\\cs2\\cheats\\cs2_internal_[unknowncheats.me]_\\cs2_internal\\cstrike\\core\\fatafont.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

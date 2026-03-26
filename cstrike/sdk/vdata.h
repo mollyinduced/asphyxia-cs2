@@ -1,0 +1,101 @@
+#pragma once
+
+// used: schema field
+#include "../core/schema.h"
+// used: rop
+#include "../utilities/memory.h"
+
+using CFiringModeFloat = std::float_t[2];
+using CSkillFloat = std::float_t[4];
+
+class CBasePlayerVData
+{
+public:
+	CS_CLASS_NO_INITIALIZER(CBasePlayerVData);
+
+	//CResourceNameTyped< CWeakHandle< InfoForResourceTypeCModel > > m_sModelName = 0x28
+	//CSkillFloat m_flHeadDamageMultiplier = 0x108
+	//CSkillFloat m_flChestDamageMultiplier = 0x118
+	//CSkillFloat m_flStomachDamageMultiplier = 0x128
+	//CSkillFloat m_flArmDamageMultiplier = 0x138
+	//CSkillFloat m_flLegDamageMultiplier = 0x148
+	//float32 m_flHoldBreathTime = 0x158
+	//float32 m_flDrowningDamageInterval = 0x15C
+	//int32 m_nDrowningDamageInitial = 0x160
+	//int32 m_nDrowningDamageMax = 0x164
+	//int32 m_nWaterSpeed = 0x168
+	//float32 m_flUseRange = 0x16C
+	//float32 m_flUseAngleTolerance = 0x170
+	//float32 m_flCrouchTime = 0x174
+};
+
+class CBasePlayerWeaponVData
+{
+public:
+	CS_CLASS_NO_INITIALIZER(CBasePlayerWeaponVData);
+
+	SCHEMA_ADD_FIELD(bool, IsFullAuto, "CBasePlayerWeaponVData->m_bIsFullAuto");
+	SCHEMA_ADD_FIELD(std::int32_t, GetMaxClip1, "CBasePlayerWeaponVData->m_iMaxClip1");
+};
+
+using CFiringModeFloat = std::float_t[2];
+
+class CCSWeaponBaseVData : public CBasePlayerWeaponVData
+{
+public:
+    CS_CLASS_NO_INITIALIZER(CCSWeaponBaseVData);
+
+    SCHEMA_ADD_OFFSET(const char*, m_szName, 0xC28);
+    SCHEMA_ADD_FIELD(std::int32_t, GetWeaponType, "CCSWeaponBaseVData->m_WeaponType");
+    SCHEMA_ADD_FIELD(float, GetRange, "CCSWeaponBaseVData->m_flRange");
+    SCHEMA_ADD_FIELD(bool, m_bIsFullAuto, "CCSWeaponBaseVData->m_bIsFullAuto");
+    SCHEMA_ADD_FIELD(CFiringModeFloat, m_flCycleTime, "CCSWeaponBaseVData->m_flCycleTime");
+    SCHEMA_ADD_FIELD(int, m_nNumBullets, "CCSWeaponBaseVData->m_nNumBullets");
+    SCHEMA_ADD_FIELD(int, m_nDamage, "CCSWeaponBaseVData->m_nDamage");
+    SCHEMA_ADD_FIELD(float, m_flPenetration, "CCSWeaponBaseVData->m_flPenetration");
+    SCHEMA_ADD_FIELD(float, m_flRangeModifier, "CCSWeaponBaseVData->m_flRangeModifier");
+    SCHEMA_ADD_FIELD(float, m_flRange, "CCSWeaponBaseVData->m_flRange");
+    SCHEMA_ADD_FIELD(float, m_flHeadshotMultiplier, "CCSWeaponBaseVData->m_flHeadshotMultiplier");
+    SCHEMA_ADD_FIELD(float, m_flArmorRatio, "CCSWeaponBaseVData->m_flArmorRatio");
+    SCHEMA_ADD_FIELD(bool, m_bMeleeWeapon, "CCSWeaponBaseVData->m_bMeleeWeapon");
+    SCHEMA_ADD_FIELD(bool, m_bHasBurstMode, "CCSWeaponBaseVData->m_bHasBurstMode");
+    SCHEMA_ADD_FIELD(bool, m_bIsRevolver, "CCSWeaponBaseVData->m_bIsRevolver");
+    SCHEMA_ADD_FIELD(CFiringModeFloat, m_flMaxSpeed, "CCSWeaponBaseVData->m_flMaxSpeed");
+    SCHEMA_ADD_FIELD(CFiringModeFloat, m_flSpread, "CCSWeaponBaseVData->m_flSpread");
+
+    inline float m_flPrimaryMaxSpeed() {
+        if (!this)
+            return 0.f;
+        return m_flMaxSpeed()[0];
+    }
+
+    inline float m_flSecondaryMaxSpeed() {
+        if (!this)
+            return 0.f;
+        return m_flMaxSpeed()[0];
+    }
+
+    inline float m_flPrimarySpread() {
+        if (!this)
+            return 0.f;
+        return m_flSpread()[0];
+    }
+
+    inline float m_flSecondarySpread() {
+        if (!this)
+            return 0.f;
+        return m_flSpread()[0];
+    }
+
+    inline float m_flPrimaryCycleTime() {
+        if (!this)
+            return 0.f;
+        return m_flCycleTime()[0];
+    }
+
+    inline float m_flSecondaryCycleTime() {
+        if (!this)
+            return 0.f;
+        return m_flCycleTime()[1];
+    }
+};
